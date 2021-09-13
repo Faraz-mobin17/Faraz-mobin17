@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Faraz Mobin</h1>
+<h1 align="center">Hi 👋, I'm Faraz Mobeen</h1>
 <h3 align="center">“Experience is the name everyone gives to their mistakes.”</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faraz-mobin17&label=Profile%20views&color=0e75b6&style=flat" alt="faraz-mobin17" /> </p>
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Music Web App](https://github.com/Faraz-mobin17/Music_App)
 
-- 🌱 I’m currently learning **PHP MYSQL and LARAVEL**
+- 🌱 I’m currently learning **JS PHP MYSQL and REACT**
 
 - 👯 I’m looking to collaborate on [Music Web App](Music Web App)
 
