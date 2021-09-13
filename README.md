@@ -11,9 +11,9 @@
 
 - 🌱 I’m currently learning **JS PHP MYSQL and REACT**
 
-- 👯 I’m looking to collaborate on [Music Web App](Music Web App)
+- 👯 I’m looking to collaborate on [Music Web App](https://github.com/Faraz-mobin17/Music_App)
 
-- 🤝 I’m looking for help with [Music Web App](Music Web App)
+- 🤝 I’m looking for help with [Music Web App](https://github.com/Faraz-mobin17/Music_App)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Faraz-mobin17/](https://github.com/Faraz-mobin17/)
 
