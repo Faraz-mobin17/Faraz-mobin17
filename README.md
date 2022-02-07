@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faraz-mobin17" alt="faraz-mobin17" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://twitter.com/faraz_mobin" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/faraz_mobin?logo=twitter&style=for-the-badge" alt="https://twitter.com/faraz_mobin" /></a> </p>
+<!-- <p align="left"> <a href="https://twitter.com/faraz_mobin" target="blank"><img src="https://i.imgur.com/qvJxjRD.png" alt="https://twitter.com/faraz_mobin"  height="30"  /></a> </p> -->
 
 - 🔭 I’m currently working on [Music Web App](https://github.com/Faraz-mobin17/Music_App)
 
@@ -27,17 +27,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/https://codepen.io/faraz-mobin17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/codepen.svg" alt="https://codepen.io/faraz-mobin17" height="30" width="40" /></a>
-<a href="https://twitter.com/https://twitter.com/faraz_mobin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="https://twitter.com/faraz_mobin" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/faraz-mobin-81470b155/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/faraz-mobin-81470b155/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15927342/faraz-mobin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15927342/faraz-mobin" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/faraz.mobeen/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/faraz.mobeen/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/faraz.mobin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/faraz.mobin/" height="30" width="40" /></a>
-<a href="https://dribbble.com/faraz_mobin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/dribbble.svg" alt="faraz_mobin" height="30" width="40" /></a>
-<a href="https://medium.com/@faraz-mobin17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@faraz-mobin17" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucrj88w1dyhqseyrart_f2xq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucrj88w1dyhqseyrart_f2xq" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/faraz_mobin17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/faraz_mobin17" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/farazmobin17/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/farazmobin17/profile" height="30" width="40" /></a>
+<a href="https://codepen.io/faraz-mobin17" target="blank"><img align="center" src="https://i.imgur.com/3gee88s.png" height="52"  /></a>
+<a href="https://twitter.com/faraz_mobin" target="blank"><img align="center" src="https://i.imgur.com/qvJxjRD.png" height="52"  /></a>&nbsp;
+<a href="https://www.linkedin.com/in/faraz-mobin-81470b155/" target="blank"><img align="center" src="https://i.imgur.com/NhsSF1z.png" height="40"  /></a>&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/15927342/faraz-mobin" target="blank"><img align="center" src="https://i.imgur.com/K8351hV.png" height="38" /></a>&nbsp;
+<a href="https://www.facebook.com/faraz.mobeen/" target="blank"><img align="center" src="https://i.imgur.com/In47bwy.png"  height="52"  /></a>&nbsp;
+<a href="https://www.instagram.com/faraz.mobin/" target="blank"><img align="center" src="https://i.imgur.com/pYZq4gH.png"  height="40"  /></a>&nbsp;
+<a href="https://dribbble.com/faraz_mobin" target="blank"><img align="center" src="https://i.imgur.com/GQpe2WJ.png" height="52"  /></a>
+<a href="https://medium.com/@faraz-mobin17" target="blank"><img align="center" src="https://i.imgur.com/FGgId5x.png"  height="48"  /></a>&nbsp;&nbsp;
+<a href="https://www.youtube.com/channel/ucrj88w1dyhqseyrart_f2xq" target="blank"><img align="center" src="https://i.imgur.com/Sy77PCX.png" height="40"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.hackerrank.com/faraz_mobin17" target="blank"><img align="center" src="https://i.imgur.com/AE6Zs5C.png"  height="40"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://auth.geeksforgeeks.org/user/farazmobin17/profile" target="blank"><img align="center" src="https://i.imgur.com/E5MqPOu.png" height="40"  /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
