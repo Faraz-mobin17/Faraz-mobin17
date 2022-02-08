@@ -28,7 +28,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://codepen.io/faraz-mobin17" target="blank"><img align="center" src="https://i.imgur.com/3gee88s.png" height="52"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;<a href="https://codepen.io/faraz-mobin17" target="blank"><img align="center" src="https://i.imgur.com/3gee88s.png" height="52"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/faraz_mobin" target="blank"><img align="center" src="https://i.imgur.com/qvJxjRD.png" height="52"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/faraz-mobin-81470b155/" target="blank"><img align="center" src="https://i.imgur.com/NhsSF1z.png" height="40"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/15927342/faraz-mobin" target="blank"><img align="center" src="https://i.imgur.com/K8351hV.png" height="38" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
