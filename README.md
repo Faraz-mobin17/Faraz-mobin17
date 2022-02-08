@@ -30,9 +30,9 @@
 
 &nbsp;&nbsp;<a href="https://codepen.io/faraz-mobin17" target="blank"><img align="center" src="https://i.imgur.com/3gee88s.png" height="52"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/faraz_mobin" target="blank"><img align="center" src="https://i.imgur.com/qvJxjRD.png" height="52"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/faraz-mobin-81470b155/" target="blank"><img align="center" src="https://i.imgur.com/NhsSF1z.png" height="40"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://stackoverflow.com/users/15927342/faraz-mobin" target="blank"><img align="center" src="https://i.imgur.com/K8351hV.png" height="38" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.facebook.com/faraz.mobeen/" target="blank"><img align="center" src="https://i.imgur.com/In47bwy.png"  height="52"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/faraz-mobin-81470b155/" target="blank"><img align="center" src="https://i.imgur.com/NhsSF1z.png" height="40"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://stackoverflow.com/users/15927342/faraz-mobin" target="blank"><img align="center" src="https://i.imgur.com/K8351hV.png" height="38" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/faraz.mobeen/" target="blank"><img align="center" src="https://i.imgur.com/In47bwy.png"  height="52"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.instagram.com/faraz.mobin/" target="blank"><img align="center" src="https://i.imgur.com/pYZq4gH.png"  height="40"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
 <h4><b><a href="https://codepen.io/faraz-mobin17">CodePen&nbsp;&nbsp;&nbsp;</a>  <a href="https://twitter.com/faraz_mobin">Twitter&nbsp;&nbsp;&nbsp;</a> <a href="https://www.linkedin.com/in/faraz-mobin-81470b155/">Linkedin&nbsp;&nbsp;&nbsp;</a>   <a href="https://stackoverflow.com/users/15927342/faraz-mobin">StackOverFlow&nbsp;&nbsp;&nbsp;</a><a href="https://www.facebook.com/faraz.mobeen/">Facebook&nbsp;&nbsp;&nbsp;</a>      &nbsp;<a href="https://www.instagram.com/faraz.mobin/">Instagram&nbsp;&nbsp;&nbsp;</a><b></h4>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://dribbble.com/faraz_mobin" target="blank"><img align="center" src="https://i.imgur.com/GQpe2WJ.png" height="52"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;
