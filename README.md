@@ -33,13 +33,15 @@
 <a href="https://www.linkedin.com/in/faraz-mobin-81470b155/" target="blank"><img align="center" src="https://i.imgur.com/NhsSF1z.png" height="40"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://stackoverflow.com/users/15927342/faraz-mobin" target="blank"><img align="center" src="https://i.imgur.com/K8351hV.png" height="38" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/faraz.mobeen/" target="blank"><img align="center" src="https://i.imgur.com/In47bwy.png"  height="52"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/faraz.mobin/" target="blank"><img align="center" src="https://i.imgur.com/pYZq4gH.png"  height="40"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://dribbble.com/faraz_mobin" target="blank"><img align="center" src="https://i.imgur.com/GQpe2WJ.png" height="52"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.instagram.com/faraz.mobin/" target="blank"><img align="center" src="https://i.imgur.com/pYZq4gH.png"  height="40"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+<h4><b><a href="https://codepen.io/faraz-mobin17">CodePen&nbsp;&nbsp;&nbsp;</a>  <a href="https://twitter.com/faraz_mobin">Twitter&nbsp;&nbsp;&nbsp;</a> <a href="https://www.linkedin.com/in/faraz-mobin-81470b155/">Linkedin&nbsp;&nbsp;&nbsp;</a>   <a href="https://stackoverflow.com/users/15927342/faraz-mobin">StackOverFlow&nbsp;&nbsp;&nbsp;</a><a href="https://www.facebook.com/faraz.mobeen/">Facebook&nbsp;&nbsp;&nbsp;</a>      &nbsp;<a href="https://www.instagram.com/faraz.mobin/">Instagram&nbsp;&nbsp;&nbsp;</a><b></h4>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="https://dribbble.com/faraz_mobin" target="blank"><img align="center" src="https://i.imgur.com/GQpe2WJ.png" height="52"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://medium.com/@faraz-mobin17" target="blank"><img align="center" src="https://i.imgur.com/FGgId5x.png"  height="48"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.youtube.com/channel/ucrj88w1dyhqseyrart_f2xq" target="blank"><img align="center" src="https://i.imgur.com/Sy77PCX.png" height="40"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.hackerrank.com/faraz_mobin17" target="blank"><img align="center" src="https://i.imgur.com/AE6Zs5C.png"  height="40"  /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://auth.geeksforgeeks.org/user/farazmobin17/profile" target="blank"><img align="center" src="https://i.imgur.com/E5MqPOu.png" height="40"  /></a>
-<h4><b>CodePen&nbsp;&nbsp;&nbsp;  Twitter&nbsp;&nbsp;&nbsp;  Linkedin&nbsp;&nbsp;&nbsp;  StackOverFlow&nbsp;&nbsp;&nbsp;  Facebook&nbsp;&nbsp;&nbsp;  Instagram&nbsp;&nbsp;&nbsp;  Dribble&nbsp;&nbsp;&nbsp;  Medium&nbsp;&nbsp;&nbsp;  Youtube&nbsp;&nbsp;&nbsp;  HackerRank&nbsp;&nbsp;&nbsp;  GeeksForGeeks<b></h4>
+
+<h4><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://dribbble.com/faraz_mobin"> Dribble&nbsp;&nbsp;&nbsp;&nbsp;</a>  <a href="https://medium.com/@faraz-mobin17">Medium&nbsp;&nbsp;&nbsp;</a><a href="https://www.youtube.com/channel/ucrj88w1dyhqseyrart_f2xq"> Youtube&nbsp;&nbsp;&nbsp;</a>   <a href="https://www.hackerrank.com/faraz_mobin17">HackerRank&nbsp;&nbsp;&nbsp;</a><a href="https://auth.geeksforgeeks.org/user/farazmobin17/profile">GeeksForGeeks</a><b></h4>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
