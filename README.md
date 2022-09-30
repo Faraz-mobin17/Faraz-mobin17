@@ -3,23 +3,19 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/faraz_mobin" target="blank"><img src="https://i.imgur.com/qvJxjRD.png" alt="https://twitter.com/faraz_mobin"  height="30"  /></a> </p> -->
 
-- 🔭 I’m currently working on [Music Web App](https://github.com/Faraz-mobin17/Music_App)
+- 🔭 I’m currently working on my DSA Skills
 
-- 🌱 I’m currently learning **JS PHP MYSQL and REACT**
+- 🌱 I’m currently learning **DSA and REACT**
 
-- 👯 I’m looking to collaborate on [Music Web App](https://github.com/Faraz-mobin17/Music_App)
+- 👯 I’m looking to collaborate on my repo.
 
-- 🤝 I’m looking for help with [Music Web App](https://github.com/Faraz-mobin17/Music_App)
+- 🤝 I’m looking for help with [codingninjas-cpp](https://github.com/Faraz-mobin17/codingninjas-cpp)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Faraz-mobin17/](https://github.com/Faraz-mobin17/)
 
 - 📝 I regularly write articles on [https://faraz-mobin17.medium.com/](https://faraz-mobin17.medium.com/)
 
-- 💬 Ask me about **HTML CSS JavaScript PHP and MYSQL**
-
 - 📫 How to reach me **faraz.mobin17@gmail.com**
-
-- ⚡ Fun fact **JavaScript is not compiled.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
