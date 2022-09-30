@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faraz Mobeen</h1>
 <h3 align="center">“Experience is the name everyone gives to their mistakes.”</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=faraz-mobin17&label=Profile%20views&color=0e75b6&style=flat" alt="faraz-mobin17" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faraz-mobin17" alt="faraz-mobin17" /></a> </p>
-
 <!-- <p align="left"> <a href="https://twitter.com/faraz_mobin" target="blank"><img src="https://i.imgur.com/qvJxjRD.png" alt="https://twitter.com/faraz_mobin"  height="30"  /></a> </p> -->
 
 - 🔭 I’m currently working on [Music Web App](https://github.com/Faraz-mobin17/Music_App)
