@@ -17,6 +17,9 @@
 
 - 📫 How to reach me **faraz.mobin17@gmail.com**
 
+- [![@faraz_mobeen's Holopin board](https://holopin.me/faraz_mobeen)](https://holopin.io/@faraz_mobeen)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
