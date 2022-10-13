@@ -3,6 +3,8 @@
 
 <!-- <p align="left"> <a href="https://twitter.com/faraz_mobin" target="blank"><img src="https://i.imgur.com/qvJxjRD.png" alt="https://twitter.com/faraz_mobin"  height="30"  /></a> </p> -->
 
+<img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="400" align="right" />
+
 - 🔭 I’m currently working on my DSA Skills
 
 - 🌱 I’m currently learning **DSA and REACT**
