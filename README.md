@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faraz Mobeen</h1>
 <h3 align="center">“Experience is the name everyone gives to their mistakes.”</h3>
-
+<h3 align="center"><a href="www.farazmobeen.com">farazmobeen.com</a></h3>
 <!-- <p align="left"> <a href="https://twitter.com/faraz_mobin" target="blank"><img src="https://i.imgur.com/qvJxjRD.png" alt="https://twitter.com/faraz_mobin"  height="30"  /></a> </p> -->
 
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="400" align="right" />
