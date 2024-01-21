@@ -5,17 +5,15 @@
 
 <img src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width="400" align="right" />
 
-- 🔭 I’m currently working on my DSA Skills
-
-- 🌱 I’m currently learning **DSA and REACT**
+- 🌱 I’m currently learning **MERN STACK**
 
 - 👯 I’m looking to collaborate on my repo.
 
-- 🤝 I’m looking for help with [codingninjas-cpp](https://github.com/Faraz-mobin17/codingninjas-cpp)
+- 🤝 I’m looking for help with [Invoice-app](https://github.com/Faraz-mobin17/invoice-app)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Faraz-mobin17/](https://github.com/Faraz-mobin17/)
 
-- 📝 I regularly write articles on [https://faraz-mobin17.medium.com/](https://faraz-mobin17.medium.com/)
+- 📝 I ocasionally write articles on [https://faraz-mobin17.medium.com/](https://faraz-mobin17.medium.com/)
 
 - 📫 How to reach me **faraz.mobin17@gmail.com**
 
